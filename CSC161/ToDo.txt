@@ -1,0 +1,7 @@
+Currency Conversion
+Month and Day of the week(using a switch)
+Finding Day of the week using the Key value method classwork
+Payroll Statement
+Letter to NATO Phonetic Alphbet
+Credit Card Processing
+Phone# Mapping

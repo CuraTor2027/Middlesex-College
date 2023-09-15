@@ -1,0 +1,13 @@
+ Fruit
+ Code	Name		Pounds	Kilos
+| 1010 | Apples     |     1.00 |     0.45 | 
+| 1020 | Oranges    |     2.00 |     0.91 | 
+| 1030 | Grapes     |     3.00 |     1.36 | 
+| 1040 | Blueberry  |     4.00 |     1.81 | 
+| 1050 | Cherry     |     5.00 |     2.27 | 
+| 1060 | Bananas    |     6.00 |     2.72 | 
+| 1070 | Mango      |     7.00 |     3.17 | 
+| 1080 | Lemon      |     8.00 |     3.62 | 
+| 1090 | Peaches    |     9.00 |     4.08 | 
+| 1100 | Strawberry |    10.00 |     4.53 | 
+Total                    55.00 |    24.91 |

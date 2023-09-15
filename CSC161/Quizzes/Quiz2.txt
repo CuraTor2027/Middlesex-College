@@ -1,0 +1,13 @@
+
+			Class Report
+Student		Test	Test	Test
+Number		One	Two	Three	Average	Grade	Status
+===========	=====	====	=====	======	=====	========
+
+55495		56	99	40	65.00	D	Poor
+85118		4	10	42	18.67	F	Fails
+62630		77	50	84	70.33	C	Satisfactory
+83182		73	11	92	58.67	F	Fails
+56654		14	62	15	30.33	F	Fails
+
+Class Average	44	46	54	48.60	F	Fails
